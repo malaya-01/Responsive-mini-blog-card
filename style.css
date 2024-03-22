@@ -97,5 +97,6 @@ button{
     }
     .container{
         padding:20px;
+        overflow: hidden;
     }
 }
