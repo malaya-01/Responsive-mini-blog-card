@@ -29,10 +29,10 @@ body {
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    border-radius: 16px;
+    border-radius: 13px;
     background-color: #ffffff;
     /* gap:10px; */
-    shadow:1px 1px 1px #E5EAF0;
+    box-shadow: 7px 7px 7px #E5EAF0;
 }
 
 .img {
