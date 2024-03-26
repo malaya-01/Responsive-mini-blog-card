@@ -32,6 +32,7 @@ body {
     border-radius: 16px;
     background-color: #ffffff;
     /* gap:10px; */
+    shadow:1px 1px 1px #E5EAF0;
 }
 
 .img {
